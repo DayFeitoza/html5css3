@@ -1,0 +1,16 @@
+Vs Code -> Link:css.
+
+*Validar o código em: validator W3C*.
+
+Gera tags de comentários -> Ctrl k + ctrl c.
+
+Para criação de um "container", usa-se a tag div.
+
+<div class="container"> </div>.
+
+Para criar lista => ult>li*4a.
+
+Alt + Shift + f => Para identação da página.
+
+Para usar (top, left, right ou bottom) é necessário usar o "position: fixed".
+
