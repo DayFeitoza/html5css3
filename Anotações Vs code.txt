@@ -1,4 +1,4 @@
-Vs Code -> Link:css.
+﻿Vs Code -> Link:css.
 
 *Validar o código em: validator W3C*.
 
@@ -13,4 +13,14 @@ Para criar lista => ult>li*4a.
 Alt + Shift + f => Para identação da página.
 
 Para usar (top, left, right ou bottom) é necessário usar o "position: fixed".
+
+flex-direction - row (seta para direita->); row-reverse (seta para esquerda<-);
+column (seta vertical para baixo); column-reverse (seta vertical para cima).
+
+
+Seleciona 2 elementos pela vírgula -> main h1, main h2 {. -> Técnica usada no CSS para definir o mesmo estilo para diversos tipos de elementos.
+
+Para o texto não ficar colodo no canto da tela, usa-se o padding: 0px 10px;
+
+
 
