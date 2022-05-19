@@ -22,5 +22,6 @@ Seleciona 2 elementos pela vírgula -> main h1, main h2 {. -> Técnica usada no 
 
 Para o texto não ficar colodo no canto da tela, usa-se o padding: 0px 10px;
 
-
+Alinhamento flex box (CSS).
+items; stretch; flex-start; flex-end; center ou baseline.
 
